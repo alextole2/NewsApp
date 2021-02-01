@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_image_size">200dp</dimen>
+    <dimen name="default_material_margin">16dp</dimen>
+    <dimen name="title_font_size">18sp</dimen>
+    <dimen name="default_font_size">12sp</dimen>
+    <dimen name="author_text_view_with">150dp</dimen>
+</resources>
